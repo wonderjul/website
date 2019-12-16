@@ -23,7 +23,7 @@ layout: default
               {% for category in categories %}
               <p class="text-uppercase">{{category}}</p>
               {% endfor %}
-              <h4 class="card-title mb-4"><a class="text-white" href="{{ post.url | prepend: site.baseurl }}">Organize Your Life With 10 Simple rule</a></h4>
+              <h4 class="card-title mb-4"><a class="text-white" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
               <a class="btn btn-outline-light" href="{{ post.url | prepend: site.baseurl }}">read more</a>
             </div>
           </div>
