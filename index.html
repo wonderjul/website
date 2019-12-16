@@ -12,8 +12,8 @@ layout: default
       {% if post.featured == true %}
       <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
         <article class="card bg-dark text-center text-white border-0 rounded-0">
-          <img class="card-img rounded-0 img-fluid w-100" src="{{site.baseurl}}/{{post.image}}" alt="{{post.title}}">
-          <div class="card-img-overlay">
+           <img class="card-img rounded-0 img-fluid w-100" src="{{site.baseurl}}/{{post.image}}" alt="{{post.title}}">
+           <div class="card-img-overlay">
             <div class="card-content">
               {% if post %}
                 {% assign categories = post.categories %}
@@ -45,7 +45,9 @@ layout: default
 			{% for post in paginator.posts %}
       <div class="col-lg-4 col-sm-6 mb-5">
         <article class="text-center">
-					<img class="img-fluid mb-4" src="{{site.baseurl}}/{{post.image}}" alt="{{post.title}}">
+          <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-transparent">
+           <img class="img-fluid mb-4" src="{{site.baseurl}}/{{post.image}}" alt="{{post.title}}">
+          </a>
 					{% if post %}
 						{% assign categories = post.categories %}
 					{% else %}
