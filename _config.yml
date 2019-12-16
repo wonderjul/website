@@ -62,7 +62,7 @@ contact-form: example@ymail.com
 
 # Social links
 social:
-- {icon: "ti-instagram-alt", link: "https://www.instagram.com/emxious/"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/emxious/"}
 
 #-------------------------------
 # Comment Section (Disqus)
