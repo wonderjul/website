@@ -98,17 +98,17 @@ h6, .h6 {
 }
 
 .btn-primary {
-  background: #ff6f00;
+  background: #13008f;
   color: #fff;
   border: 0;
 }
 
 .btn-primary:active {
-  background: #ff6f00 !important;
+  background: #13008f !important;
 }
 
 .btn-primary:hover {
-  background: #ff8c33;
+  background: #13008f;
 }
 
 .btn-outline-light {
@@ -129,7 +129,7 @@ h6, .h6 {
 }
 
 .btn-transparent {
-  color: #ff6f00;
+  color: #13008f;
   border: 0;
 }
 
@@ -139,12 +139,12 @@ body {
 }
 
 ::-moz-selection {
-  background: #ff8c33;
+  background: #13008f;
   color: #fff;
 }
 
 ::selection {
-  background: #ff8c33;
+  background: #13008f;
   color: #fff;
 }
 
@@ -178,7 +178,7 @@ body {
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #ff6f00;
+  background: #13008f;
   border-radius: 50%;
   -webkit-transform: translateX(0);
           transform: translateX(0);
@@ -201,7 +201,7 @@ body {
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #ff6f00;
+  background: #13008f;
   border-radius: 50%;
 }
 
@@ -264,7 +264,7 @@ select:focus {
 }
 
 a:hover, a.text-dark:hover {
-  color: #ff6f00 !important;
+  color: #13008f !important;
 }
 
 .slick-slide {
@@ -331,15 +331,15 @@ a:hover, a.text-dark:hover {
 }
 
 .bg-primary {
-  background: #ff6f00 !important;
+  background: #13008f !important;
 }
 
 .bg-secondary {
-  background: #fdefe6 !important;
+  background: #a5c9f0 !important;
 }
 
 .text-primary {
-  color: #ff6f00 !important;
+  color: #13008f !important;
 }
 
 .text-color {
@@ -411,7 +411,7 @@ a:hover, a.text-dark:hover {
 .form-control:focus {
   outline: 0;
   box-shadow: none;
-  border-color: #ff6f00;
+  border-color: #13008f;
 }
 
 textarea.form-control {
@@ -510,7 +510,7 @@ textarea.form-control {
 
 .navbar .dropdown-item:active {
   color: #fff;
-  background-color: #ff6f00;
+  background-color: #13008f;
 }
 
 .search-icon {
@@ -647,7 +647,7 @@ textarea.form-control {
 }
 
 .instagram-post ul a:hover {
-  color: #ff6f00 !important;
+  color: #13008f !important;
 }
 
 .instagram-post:hover::before {
@@ -663,7 +663,7 @@ textarea.form-control {
 /* homepage 2 */
 .hero-section {
   padding: 70px 0 0;
-  background-image: linear-gradient(#fff 45%, #fdefe6 0);
+  background-image: linear-gradient(#fff 45%, #a5c9f0 0);
 }
 
 .dividers {
@@ -803,7 +803,7 @@ textarea.form-control {
 blockquote {
   font-style: italic;
   color: #000000;
-  background: #fdefe6;
+  background: #a5c9f0;
   padding: 20px;
   font-weight: 600;
 }
@@ -846,7 +846,7 @@ blockquote {
 }
 
 .tag-list li a:hover {
-  color: #ff6f00;
+  color: #13008f;
 }
 
 /*# sourceMappingURL=maps/style.css.map */

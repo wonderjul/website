@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Parsa | Portfolio Jekyll Template
+title: Dexpression
 logo: logo.png # You can add own logo
 description: # Add your awesome description
 baseurl: "" # The subpath of your site, e.g. /blog
@@ -62,10 +62,7 @@ contact-form: example@ymail.com
 
 # Social links
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-twitter-alt", link: "#"}
-- {icon: "ti-linkedin", link: "#"}
-- {icon: "ti-github", link: "#"}
+- {icon: "ti-instagram-alt", link: "https://www.instagram.com/emxious/"}
 
 #-------------------------------
 # Comment Section (Disqus)

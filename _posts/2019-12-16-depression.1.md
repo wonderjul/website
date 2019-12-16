@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Depression is Hard"
-date: 2019-04-14 14:46:10 +03:00
-description: "This is meta description"
-featured: true
+date: 2019-12-16 16:46:10 +03:00
+description: "Depression is no fun"
+featured: false
 image: "assets/images/featured-post/post-2.jpg"
 categories: 
-  - "Philosophy"
+  - "Depression"
 tags:
-  - "Philosophy"
-  - "Photos"
+  - "Depression"
+  - "Sad"
 ---
 
 
